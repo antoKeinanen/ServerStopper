@@ -3,7 +3,7 @@
 ServerStopper is free and opensource server utility for paper based servers. ServerStopper closes the server after
 specified time if there are no players. If a player joins during this timer it will be cancelled.
 
-> **Hint:** This plugin works well with the Serverselector pluign
+> **Hint:** This plugin works well with the [Serverselector](https://github.com/antoKeinanen/Serverselector) pluign
 
 ## Installation
 
