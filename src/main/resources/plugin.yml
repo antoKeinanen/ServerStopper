@@ -1,0 +1,4 @@
+name: ServerStopper
+version: '${project.version}'
+main: dev.antok.serverstopper.ServerStopper
+api-version: '1.20'
